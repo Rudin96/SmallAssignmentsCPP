@@ -159,7 +159,7 @@ void bitSwap()
 
 int main()
 {
-	/*int absA, absB, c, x, y, oddCheck;
+	int absA, absB, c, x, y, oddCheck;
 	printf("Abs A");
 	std::cin >> absA;
 	printf("Abs B");
@@ -187,7 +187,7 @@ int main()
 	
 	guessGame();
 
-	arithmetics();*/
+	arithmetics();
 
 	bitSwap();
 
