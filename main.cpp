@@ -147,6 +147,7 @@ void arithmetics()
 	}
 }
 
+//Unfinished
 void bitSwap()
 {
 	int a = 10;
@@ -188,8 +189,6 @@ int main()
 	guessGame();
 
 	arithmetics();
-
-	bitSwap();
 
 	printf("Press any key to start again!\n");
 	std::cin.get();
